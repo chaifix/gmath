@@ -6,7 +6,5 @@ namespace gmath
        :x(v), y(v), z(v), w(v)
     {
     }
-
-
-
+	
 }
